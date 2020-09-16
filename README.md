@@ -1,6 +1,13 @@
-### Hi there 👋
+![salimt's github stats](https://github-readme-stats.vercel.app/api?username=salimt&count_private=true&show_icons=true&theme=highcontrast&line_height=21) 
+<!--
+I am a PhD student in Purdue Computer Engineering, working in the Distributed Systems & Networking Lab led by Prof. Y. Charlie Hu.
+
+Previously, I obtained my M.S. in UCLA CS and B.S. in Beihang EE.
 
 <!--
+### Hi there 👋
+
+
 **salimt/salimt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
