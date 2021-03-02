@@ -5,7 +5,7 @@ I am a PhD student in Purdue Computer Engineering, working in the Distributed Sy
 Previously, I obtained my M.S. in UCLA CS and B.S. in Beihang EE.
 
 
-### Hi there 👋
+Hi there 👋
 
 <!--
 **salimt/salimt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
