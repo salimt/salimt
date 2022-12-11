@@ -15,7 +15,7 @@ but I have a couple of hobby open source projects that are slightly more popular
 <p> <img src="https://komarev.com/ghpvc/?username=ginny100" alt="ginny100" /> </p> -->
 
 <!-- Profile Visitors -->
-![](https://visitor-badge.laobi.icu/badge?page_id=salimt.salimt)
+<!-- ![](https://visitor-badge.laobi.icu/badge?page_id=salimt.salimt) -->
 <!-- 
 LeetCode Stats Card
 <p align="center">
