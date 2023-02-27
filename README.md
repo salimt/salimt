@@ -10,8 +10,8 @@ I use GitHub mostly as a sandbox to play as well as an archive for my old projec
 but I have a couple of hobby open source projects that are slightly more popular.
 
 
-## 📊 Stats
-<!-- Profile views
+<!-- ## 📊 Stats
+ Profile views
 <p> <img src="https://komarev.com/ghpvc/?username=ginny100" alt="ginny100" /> </p> -->
 
 <!-- Profile Visitors -->
@@ -33,8 +33,8 @@ LeetCode Stats Card
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=salimt&theme=onedark&custom_title=streak-stats&hide_border=false&layout=compact" />
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=salimt&theme=onedark&rank=S,AAA) -->
+![trophy](https://github-profile-trophy.vercel.app/?username=salimt&theme=onedark&rank=S,AAA)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=salimt&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=salimt&theme=radical&no-frame=false&no-bg=false&margin-w=4)  -->
 
